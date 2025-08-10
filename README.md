@@ -10,7 +10,7 @@ I’m passionate about building scalable web applications, solving real-world pr
 - 🌱 Exploring **DevOps, Docker, and Advanced System Design**  
 - 💡 Love creating **interactive, user-friendly, and performance-optimized** web apps  
 - 🎯 Goal: To contribute to impactful projects and open-source communities  
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-singh)  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-singh-872284227/)  
 
 ---
 
